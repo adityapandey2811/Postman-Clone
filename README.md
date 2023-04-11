@@ -1,7 +1,9 @@
 # Postman-Clone
 
 • Developed a REST API client to send and receive responses to an API endpoint url
+
 • Installed support for most common HTTP request methods i.e. GET, POST, PUT and DELETE
+
 • Validated project with Unit tests using JUnit and Mockito
 
 
